@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Hackathon\\Hackathon\\Hackathon\\Hackathon.csproj": {}
+    "D:\\Hackathon\\LiveScore-Whatsapp-Api\\Hackathon\\Hackathon.csproj": {}
   },
   "projects": {
-    "D:\\Hackathon\\Hackathon\\Hackathon\\Hackathon.csproj": {
+    "D:\\Hackathon\\LiveScore-Whatsapp-Api\\Hackathon\\Hackathon.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Hackathon\\Hackathon\\Hackathon\\Hackathon.csproj",
+        "projectUniqueName": "D:\\Hackathon\\LiveScore-Whatsapp-Api\\Hackathon\\Hackathon.csproj",
         "projectName": "Hackathon",
-        "projectPath": "D:\\Hackathon\\Hackathon\\Hackathon\\Hackathon.csproj",
+        "projectPath": "D:\\Hackathon\\LiveScore-Whatsapp-Api\\Hackathon\\Hackathon.csproj",
         "packagesPath": "C:\\Users\\apima\\.nuget\\packages\\",
-        "outputPath": "D:\\Hackathon\\Hackathon\\Hackathon\\obj\\",
+        "outputPath": "D:\\Hackathon\\LiveScore-Whatsapp-Api\\Hackathon\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\apima\\AppData\\Roaming\\NuGet\\NuGet.Config",

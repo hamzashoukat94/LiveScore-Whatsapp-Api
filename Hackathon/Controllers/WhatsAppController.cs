@@ -1,5 +1,4 @@
-﻿
-using CricketAPI.Standard;
+﻿using CricketAPI.Standard;
 using CricketAPI.Standard.Controllers;
 using CricketAPI.Standard.Models;
 using Hackathon.Models;
